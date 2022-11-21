@@ -16,7 +16,7 @@ body
 }
 .container{
     position: relative;
-    width: 1350px;
+    width: 10px;
     max-width: 100%;
     height: calc(100vh - 80px);
     background: #f4f1ed;
@@ -269,6 +269,7 @@ color: #111;
 }
 .my_message {
     justify-content: flex-end;
+    color: #fff;
 }
 .frnd_message{
     justify-content: flex-start;
